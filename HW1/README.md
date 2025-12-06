@@ -1,4 +1,4 @@
-# MIPT-CV-Homeworks
+# Homework 1
 
 _Выполнил Бергман Валерий_
 
